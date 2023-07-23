@@ -1,4 +1,4 @@
-iheartperl7 Tutorial Book
+iheartperl7.com Tutorial Book
 =============================
 
 **This books consists of a tutorial and exercises to get you up and running with
@@ -45,8 +45,7 @@ want to look at changes you might be making to it:
 $ mdbook serve --open
 ```
 
-This will automatically generate the files as you make changes and serves them
-locally so you can view them easily without having to call `build` every time.
+This will automatically generate the files into the `book` directory, serve them allow you to do updates to the files as you view them. without having to call `mdbook build` every time.
 
 The files are all written in Markdown and mostly in the `src` directory.
 
