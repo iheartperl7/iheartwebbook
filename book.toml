@@ -1,0 +1,6 @@
+[book]
+authors = ["iheartperl7.com"]
+language = "en"
+multilingual = false
+src = "src"
+title = "iheartperl7.com"
