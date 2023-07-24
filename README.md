@@ -51,5 +51,5 @@ The files are all written in Markdown and mostly in the `src` directory.
 
 [mdbook]: https://github.com/rust-lang-nursery/mdBook
 [rustup]: https://github.com/rust-lang-nursery/rustup.rs/
-[book]: https://iheartperl.com/introduction.html
+[book]: https://iheartperl.com
 [iheartperl7]: https://iheartperl7.com
