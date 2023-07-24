@@ -1,7 +1,7 @@
 # Introduction
 # Perl 💎 and Its Experimental Features 🧪
 
-This small book describes how to use [Perl](https://www.perl.org) and its experimental features.
+This book describes how to use [Perl](https://www.perl.org) and its experimental features.
 
 ## Who is this book for?
 
